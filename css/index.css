@@ -1,0 +1,113 @@
+header {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    font-family: 'chivo mono';
+  }
+  header img {
+    height: 50px;
+  }
+
+  .navlink {
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 9px;
+    text-decoration-color: #000000;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-right: 65px;
+
+}
+
+
+.Email {
+    display: flex;
+    justify-content: center;
+
+    padding-bottom: 20px;
+    padding-right: 17px;
+}
+
+.labelEmail {
+    padding-right: 10px;
+
+}
+
+.joinButton {
+    border-radius: 9px;
+    border-color: grey;
+
+    background-color: black;
+    color: #eaf6f6;
+
+}
+
+
+
+body {
+    color: #0e3150;
+    background-color: #d47c04;
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+}
+
+
+
+p {
+    padding: 10px 350px;
+}
+
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+
+p.note {
+    font-weight: bold;
+    align-items: center;
+    text-align-last: center;
+
+
+}
+
+.title{
+ color: white;
+ text-decoration: none;
+}
+
+
+.bodyHeading{
+
+padding: 10px 350px;
+font-family: 'chivo mono';
+}
+
+.p{
+    padding: 10px 350px;
+}
+
+.smallFont{
+    font-size: small;
+}
+
+.c {
+  color: white;
+  text-align: center;
+  font-size: 36px;
+
+}
+.sig{
+    font-size: medium;
+}
